@@ -1,0 +1,26 @@
+div {
+    width:29vw;
+    height:32vh;
+    display: inline-block;
+}
+.r {
+    border-right: 1px solid black;
+}
+.b {
+    border-bottom: 1px solid black;
+}
+h1 {
+    text-align: center;
+}
+.j1{
+    background-image:url("../imagens/circulo.jpg");
+    background-size: 150px;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.j2 {
+    background-image:url("../imagens/x.jpg");
+    background-size: 150px;
+    background-position: center;
+    background-repeat: no-repeat;
+}
